@@ -1,1 +1,15 @@
-# jeongin
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjeongiin&count_bg=%23613ADF&title_bg=%237D7575&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com) ![Followers](https://img.shields.io/github/followers/jeongiin?style=social)
+
+# 💜 Career
+|        Type        |       Date       |     Contents     |     Organization     |
+|:------------------:|:----------------:|:----------------:|:--------------------:|
+| **👩‍🎓 Education** |   2018.3 ~ 2021  | Computer Science | **Sangmyung University** |
+|    **Circles**   | 2019.3 ~ 2020.12 |     LIKE LION    |       **LIKE LION**      |
+|    **Circles**   |   2019.9 ~ 2021  |     SK LOOKIE    |    **SK 행복나눔재단**   |
+
+# 💙 Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongiin&layout=compact)](https://github.com/jeongiin/github-readme-stats)
+
+
+# 🤍 Stats
+![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jeongiin&show_icons=true)
