@@ -8,8 +8,7 @@
 |    **Circles**   |   2019.9 ~ 2021  |     SK LOOKIE    |    **SK 행복나눔재단**   |
 
 # 💙 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongiin&layout=compact)](https://github.com/jeongiin/github-readme-stats)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 # 🤍 Stats
 ![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jeongiin&show_icons=true)
