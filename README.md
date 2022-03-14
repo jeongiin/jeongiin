@@ -3,9 +3,9 @@
 # 💜 Career
 |        Type        |       Date       |     Contents     |     Organization     |
 |:------------------:|:----------------:|:----------------:|:--------------------:|
-| **👩‍🎓 Education** |   2018.3 ~ 2021  | Computer Science | **Sangmyung University** |
+| **👩‍🎓 Education** |   2018.3 ~ 2021.8  | Computer Science | **Sangmyung University** |
 |    **Circles**   | 2019.3 ~ 2020.12 |     LIKE LION    |       **LIKE LION**      |
-|    **Circles**   |   2019.9 ~ 2021  |     SK LOOKIE    |    **SK 행복나눔재단**   |
+|    **Circles**   |   2019.9 ~ 2022.2  |     SK LOOKIE    |    **SK 행복나눔재단**   |
 
 # 💙 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeongiin&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
