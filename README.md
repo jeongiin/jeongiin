@@ -7,8 +7,3 @@
 |    **Circles**   | 2019.3 ~ 2020.12 |     LIKE LION    |       **LIKE LION**      |
 |    **Circles**   |   2019.9 ~ 2022.2  |     SK LOOKIE    |    **SK 행복나눔재단**   |
 | **👩‍🎓 Education** |   2021.9 ~ 2023.8  | Computer Graphics Lab | **Sangmyung University** |
-
-
-
-# 🤍 Stats
-![Jeongin's github stats](https://github-readme-stats.vercel.app/api?username=jeongiin&show_icons=true)
