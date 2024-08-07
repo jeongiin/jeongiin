@@ -30,3 +30,7 @@
 - 2023.05.04 [인공지능팩토리 챗 GPT MS 애저톤 서비스부문 우수상](https://github.com/jeongiin/story-factory-api)
 - 2021.12.30 [제 4 회 KB 국민은행 소프트웨어 경진대회 장려상](https://github.com/PLETO-99s/PLETO_FRONT)
 - 2020.12.23 [제 2 회 SM 경진대회 AI 개발 부문 장려상](https://github.com/jeongiin/MyPickPlate)
+
+## Activities
+
+- 2024.07.13 ~ Open Source SW Contribution Academy [HuggingFace OSS Project](https://github.com/jeongiin/transformers)
