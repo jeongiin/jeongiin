@@ -34,4 +34,3 @@
 ## Activities
 
 - 2024.07.13 ~ Open Source SW Contribution Academy [HuggingFace OSS Project](https://github.com/jeongiin/transformers)
-  - [Mask Generation 한국어 번역](https://huggingface.co/docs/transformers/main/ko/tasks/mask_generation)
