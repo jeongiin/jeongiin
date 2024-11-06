@@ -27,7 +27,7 @@
 - 2023.09.08 SK 텔레콤&하나금융그룹 THCH4GOOD 해커톤 우수상
 - 2023.09.01 [SK 텔레콤 FLY AI Challenger 3 기 프로젝트부문 우수상](https://github.com/jeongiin/serena_backend)
 - 2023.07.12 [서울시 생성 AI 해커톤 서울디지털재단 이사장상(입상)](https://github.com/jeongiin/edu-fusion-api)
-- 2023.05.04 [인공지능팩토리 챗 GPT MS 애저톤 서비스부문 우수상](https://github.com/jeongiin/story-factory-api)
+- 2023.05.04 [인공지능팩토리 챗 GPT MS 애저톤 서비스부문 우수상(서비스 부문 1위)](https://github.com/jeongiin/story-factory-api)
 - 2021.12.30 [제 4 회 KB 국민은행 소프트웨어 경진대회 장려상](https://github.com/PLETO-99s/PLETO_FRONT)
 - 2020.12.23 [제 2 회 SM 경진대회 AI 개발 부문 장려상](https://github.com/jeongiin/MyPickPlate)
 
