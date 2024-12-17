@@ -23,6 +23,7 @@
 
 ## Awards
 
+- 2024.12.06 2024 오픈소스 컨트리뷰션 아카데미 한국IT비즈니스진흥협회장상(HuggingFace OSS 팀)
 - 2023.12.21 서울대학교치과병원 2023 헬스케어 AI 경진대회 입선(100팀 중 5위, F1 Score 0.9866)
 - 2023.09.08 SK 텔레콤&하나금융그룹 THCH4GOOD 해커톤 우수상
 - 2023.09.01 [SK 텔레콤 FLY AI Challenger 3 기 프로젝트부문 우수상](https://github.com/jeongiin/serena_backend)
@@ -33,4 +34,4 @@
 
 ## Activities
 
-- 2024.07.13 ~ Open Source SW Contribution Academy [HuggingFace OSS Project](https://github.com/jeongiin/transformers)
+- 2024.07.13 ~ Open Source SW Contribution Academy HuggingFace OSS Project
